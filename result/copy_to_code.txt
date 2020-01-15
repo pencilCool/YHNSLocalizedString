@@ -1,0 +1,12 @@
+NSLocalizedString(@"key1","value1");
+
+NSLocalizedString(@"key2","value2");
+
+NSLocalizedString(@"key3","value3");
+
+NSLocalizedString(@"key1","value1");
+
+NSLocalizedString(@"key2","value2");
+
+NSLocalizedString(@"key3","value3");
+
