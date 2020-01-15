@@ -1,0 +1,1 @@
+find . -iname "*strings*" ${@:2} | grep lproj  | sed "s/\ /\\\ /g"  | xargs plutil | grep -v OK
